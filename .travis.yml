@@ -1,13 +1,14 @@
+os: linux
 language: node_js
 node_js: 12
-branchs:
-  only:
-    - master
+branches:
+    only:
+        - master
 install:
-  - yarn
+    - yarn
 script:
-  - npm run lint
-  - npm run build
+    - npm run lint
+    - npm run build
 cache:
-  directories:
-    - node_modules
+    directories:
+        - node_modules

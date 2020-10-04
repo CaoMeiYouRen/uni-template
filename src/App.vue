@@ -3,7 +3,7 @@ import Vue from 'vue'
 export default Vue.extend({
     mpType: 'app',
     onLaunch() {
-        console.log('App Launch')
+        // console.log('App Launch')
     },
     onShow() {
         // console.log('App Show')
@@ -15,5 +15,5 @@ export default Vue.extend({
 </script>
 
 <style>
-    /*每个页面公共css */
+    /* 每个页面公共css */
 </style>
