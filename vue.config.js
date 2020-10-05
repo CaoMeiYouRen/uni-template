@@ -1,3 +1,5 @@
+const StyleLintPlugin = require('stylelint-webpack-plugin')
+
 module.exports = {
     publicPath: '/',
     devServer: {
@@ -7,4 +9,15 @@ module.exports = {
         compress: true, //是否启用gzip压缩
     },
     productionSourceMap: false, //移除生产环境的 source map
+    configureWebpack: config => {
+        config.plugins.push(
+            // @ts-ignore
+            new StyleLintPlugin({
+                files: ['src/**/*.{vue,html,css,scss,sass,less}'],
+                failOnError: false,
+                cache: true,
+                fix: true,
+            }),
+        )
+    }
 }

@@ -10,6 +10,7 @@
 </template>
 
 <script lang="ts">
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import Vue from 'vue'
 export default Vue.extend({
     data() {
@@ -17,6 +18,7 @@ export default Vue.extend({
             title: 'Hello',
         }
     },
+    // @ts-ignore
     onLoad() {
 
     },
@@ -26,18 +28,20 @@ export default Vue.extend({
 })
 </script>
 
-<style>
-	.content {
-		text-align: center;
-		height: 400upx;
-	}
-    .logo{
-        height: 200upx;
-        width: 200upx;
-        margin-top: 200upx;
+<style lang="scss">
+    .content {
+        height: 400rpx;
+        text-align: center;
     }
-	.title {
-		font-size: 36upx;
-		color: #8f8f94;
-	}
+
+    .logo {
+        width: 200rpx;
+        height: 200rpx;
+        margin-top: 200rpx;
+    }
+
+    .title {
+        color: #8f8f94;
+        font-size: 36rpx;
+    }
 </style>
