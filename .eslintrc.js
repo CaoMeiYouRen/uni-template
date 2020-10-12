@@ -53,8 +53,6 @@ module.exports = {
         ecmaFeatures: {
             modules: true,
         },
-        project: './tsconfig.json',
-        tsconfigRootDir: __dirname,
     },
     rules: {
         '@typescript-eslint/no-empty-function': [0],

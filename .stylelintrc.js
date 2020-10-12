@@ -15,5 +15,6 @@ module.exports = {
         'no-empty-source': null,
         'font-family-no-missing-generic-family-keyword': null,
         'no-descending-specificity': null,
+        'unit-no-unknown': null,
     },
 }

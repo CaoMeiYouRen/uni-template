@@ -10,7 +10,6 @@
 </template>
 
 <script lang="ts">
-/* eslint-disable @typescript-eslint/ban-ts-comment */
 import Vue from 'vue'
 export default Vue.extend({
     data() {
@@ -18,7 +17,6 @@ export default Vue.extend({
             title: 'Hello',
         }
     },
-    // @ts-ignore
     onLoad() {
 
     },
