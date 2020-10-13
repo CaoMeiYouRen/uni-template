@@ -4,7 +4,8 @@
   "private": true,
   "author": "CaoMeiYouRen",
   "scripts": {
-    "lint": "cross-env NODE_ENV=production eslint src --fix --ext .ts,.js,.vue",
+    "lint": "cross-env NODE_ENV=production eslint src --fix --ext .ts,.js,.vue && npm run lint:css",
+    "lint:css": "stylelint src/**/*.{vue,html,css,scss,sass} --syntax scss --custom-syntax postcss-html --fix",
     "dev": "npm run dev:h5",
     "build": "npm run build:h5",
     "build:app-plus": "cross-env NODE_ENV=production UNI_PLATFORM=app-plus vue-cli-service uni-build",
@@ -96,6 +97,7 @@
     "sass": "^1.26.11",
     "sass-loader": "^10.0.0",
     "stylelint": "^13.7.2",
+    "stylelint-config-cmyr": "^0.1.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-order": "^4.1.0",
