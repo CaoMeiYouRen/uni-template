@@ -7,5 +7,6 @@ module.exports = {
         'stylelint-order',
     ],
     rules: {
+        'unit-no-unknown': null
     },
 }
