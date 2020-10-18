@@ -56,6 +56,6 @@ module.exports = {
     },
     rules: {
         '@typescript-eslint/no-empty-function': [0],
-
+        'vue/match-component-file-name': [0]
     },
 }
