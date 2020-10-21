@@ -1,9 +1,8 @@
 os: linux
 language: node_js
-node_js: 12
-# branches:
-#     only:
-#         - master
+node_js:
+    - 12
+    - 14
 install:
     - yarn
 script:
