@@ -3,6 +3,4 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
-new App({
-    name: 'Root',
-}).$mount()
+new App().$mount()

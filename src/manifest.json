@@ -58,12 +58,5 @@
     },
     "mp-qq": {
         "usingComponents": true
-    },
-    "h5": {
-        "optimization": {
-            "treeShaking": {
-                "enable": true //启用摇树优化
-            }
-        }
     }
 }

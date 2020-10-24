@@ -29,14 +29,21 @@ export default Vue.extend({
 
 <style lang="scss">
     .content {
-        height: 400rpx;
-        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
     .logo {
         width: 200rpx;
         height: 200rpx;
-        margin-top: 200rpx;
+        margin: 200rpx auto 50rpx auto;
+    }
+
+    .text-area {
+        display: flex;
+        justify-content: center;
     }
 
     .title {

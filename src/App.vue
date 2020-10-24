@@ -1,7 +1,8 @@
 <script lang="ts">
+/* eslint-disable vue/require-name-property */
+// App 页面 不能有 name
 import Vue from 'vue'
 export default Vue.extend({
-    name: 'App',
     mpType: 'app',
     onLaunch() {
         // console.log('App Launch')
