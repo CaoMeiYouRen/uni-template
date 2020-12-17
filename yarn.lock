@@ -4917,10 +4917,10 @@ escodegen@^1.11.1, escodegen@^1.14.1, escodegen@^1.8.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-cmyr@^1.0.1:
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/eslint-config-cmyr/download/eslint-config-cmyr-1.0.3.tgz#0725efc7f9446eb7a4ed85d3de3d96af033c36b8"
-  integrity sha1-ByXvx/lEbrek7YXT3j2WrwM8Nrg=
+eslint-config-cmyr@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.0.5.tgz#fdac8b4b7bfe29e79b39651025454f1da04253a0"
+  integrity sha512-Mzcy5Yjwv2XD7Dwr+yKk30tWZeNZTYQSKZrHUPB7Ebb0v/uUgEe9sd2h/LZUEYv+ap+oi6UgM6RVxZ2BsLAR5Q==
 
 eslint-plugin-html@^6.1.0:
   version "6.1.1"
