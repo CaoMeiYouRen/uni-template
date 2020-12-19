@@ -45,15 +45,6 @@ module.exports = {
         'vue',
         'html'
     ],
-    parser: 'vue-eslint-parser',
-    parserOptions: {
-        parser: '@typescript-eslint/parser',
-        ecmaVersion: new Date().getFullYear() - 1,
-        sourceType: 'module',
-        ecmaFeatures: {
-            modules: true,
-        },
-    },
     rules: {
         '@typescript-eslint/no-empty-function': [0],
         'vue/match-component-file-name': [0]
