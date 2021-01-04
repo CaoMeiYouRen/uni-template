@@ -84,7 +84,7 @@
     "@types/node": "^14.14.19",
     "@types/uni-app": "^1.4.3",
     "@typescript-eslint/eslint-plugin": "^4.11.0",
-    "@typescript-eslint/parser": "^4.11.0",
+    "@typescript-eslint/parser": "^4.11.1",
     "@vue/cli-plugin-babel": "^4.5.8",
     "@vue/cli-plugin-typescript": "^4.5.8",
     "@vue/cli-service": "^4.5.8",
