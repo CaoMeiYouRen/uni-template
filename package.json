@@ -99,7 +99,7 @@
     "mini-types": "*",
     "miniprogram-api-typings": "*",
     "postcss-comment": "^2.0.0",
-    "sass": "^1.27.0",
+    "sass": "^1.32.2",
     "sass-loader": "^10.0.4",
     "stylelint": "^13.7.2",
     "stylelint-config-cmyr": "^0.2.1",
