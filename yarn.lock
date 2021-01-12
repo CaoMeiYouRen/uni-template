@@ -8251,9 +8251,9 @@ minipass@^3.0.0, minipass@^3.1.1:
     yallist "^4.0.0"
 
 miniprogram-api-typings@*:
-  version "3.2.0"
-  resolved "https://registry.npm.taobao.org/miniprogram-api-typings/download/miniprogram-api-typings-3.2.0.tgz#5ba1225393167e242039e4131c343b5a688aea80"
-  integrity sha1-W6EiU5MWfiQgOeQTHDQ7WmiK6oA=
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/miniprogram-api-typings/-/miniprogram-api-typings-3.2.1.tgz#4a43a6e249393d687aec0fff17d98b18a2e1987d"
+  integrity sha512-zQxWvsj3fEkzGHHrVew4gyv5hbZBRIxxdzisfZENkQmrliV1RnX9L2jiqLaodoTkHsW8Xii5Pjg4+SUdFrbihg==
 
 mississippi@^3.0.0:
   version "3.0.0"
