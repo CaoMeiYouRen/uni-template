@@ -81,7 +81,7 @@
     "@dcloudio/webpack-uni-mp-loader": "^2.0.0-31220210205004",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.0-31220210205004",
     "@types/html5plus": "^1.0.1",
-    "@types/node": "^14.14.32",
+    "@types/node": "^15.12.2",
     "@types/uni-app": "^1.4.3",
     "@typescript-eslint/eslint-plugin": "^4.26.1",
     "@typescript-eslint/parser": "^4.26.1",
@@ -108,7 +108,7 @@
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.19.0",
     "stylelint-webpack-plugin": "^2.1.1",
-    "typescript": "^4.2.3",
+    "typescript": "^4.3.2",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
