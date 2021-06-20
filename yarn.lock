@@ -996,10 +996,10 @@
     "@hap-toolkit/server" "0.6.13"
     module-alias "^2.1.0"
 
-"@dcloudio/uni-quickapp-webview@^2.0.0-31220210205004":
-  version "2.0.0-31220210205004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-31220210205004.tgz#ec3ee096041e1caeb07b176e64465b520a6a605f"
-  integrity sha512-Ek1iuJZcdqiC5QpPmcylv3Eh+tVi2/nOpN5XmY8cje1Wyj18bilMwlQ8UrF5wDJJBQ2UETwPq1Mk20SfyJaTQg==
+"@dcloudio/uni-quickapp-webview@^2.0.0-31920210609001":
+  version "2.0.0-31920210609001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-31920210609001.tgz#ea9c4d983899776f8db79095488fac12f457bc13"
+  integrity sha512-5+JMZ5MKe4axmr+qQxu2VyjlMno1rPGSutLfshltvoUGCfWiynLQg448Z/Bs+THlN9h+TMgWJZDgB6uXjYI4xw==
 
 "@dcloudio/uni-stat@^2.0.0-31220210205004":
   version "2.0.0-31220210205004"
