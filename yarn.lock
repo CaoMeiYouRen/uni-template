@@ -986,10 +986,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-weixin/-/uni-mp-weixin-2.0.0-31920210609001.tgz#7401f622728a1d341d0b0241f3946e9c943f5107"
   integrity sha512-sy9H3vuWPKPjPcA16tAYwMAbFLDTTrkM3757nMFsZcyiWnUIqvZcllRJUElhTxw+P7W+tfcKvq9onwncDqdcnw==
 
-"@dcloudio/uni-quickapp-native@^2.0.0-31220210205004":
-  version "2.0.0-31220210205004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-native/-/uni-quickapp-native-2.0.0-31220210205004.tgz#37f1919d4d126f3d3b87d8001d8fed8bf236534c"
-  integrity sha512-9ZCLhvUKkZYdL8KTXqDLLdPxVfR708cBRjfnx5hIhHp8LBtfmW7Zyht3OxWGeRWpKD8dQ03Dav/zIg4wuIcqEw==
+"@dcloudio/uni-quickapp-native@^2.0.0-31920210609001":
+  version "2.0.0-31920210609001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-native/-/uni-quickapp-native-2.0.0-31920210609001.tgz#a0c7351f4af519173af89874496fe9343321caa2"
+  integrity sha512-TmUEEBttss1K2Ds+648ld7PdXWHu0xZNvlyfFjyzuujb+lFF3bqZkV4Tljko5FVypKTHYizVIRSi9oKcx1zwvQ==
   dependencies:
     "@hap-toolkit/dsl-vue" "0.6.13"
     "@hap-toolkit/packager" "0.6.13"
@@ -1001,7 +1001,7 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-31920210609001.tgz#ea9c4d983899776f8db79095488fac12f457bc13"
   integrity sha512-5+JMZ5MKe4axmr+qQxu2VyjlMno1rPGSutLfshltvoUGCfWiynLQg448Z/Bs+THlN9h+TMgWJZDgB6uXjYI4xw==
 
-"@dcloudio/uni-stat@^2.0.0-31220210205004", "@dcloudio/uni-stat@^2.0.0-31920210609001":
+"@dcloudio/uni-stat@^2.0.0-31920210609001":
   version "2.0.0-31920210609001"
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-31920210609001.tgz#749eafc9120797fb1e2461510145abe9d7f1a700"
   integrity sha512-C7xRbsS1pD075MeqOFHohS+5hTfiM6C3Kcl2dkzSUdrFXaQW7ajuXBxZQXpqxOgywe90kobWpnm2wxiO+rB7Sg==
