@@ -916,10 +916,10 @@
     qrcode-terminal "^0.12.0"
     ws "^7.2.3"
 
-"@dcloudio/uni-cli-shared@^2.0.0-31220210205004":
-  version "2.0.0-31220210205004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-cli-shared/-/uni-cli-shared-2.0.0-31220210205004.tgz#e091c85cffdc37cf232fc0bb085b53f7c1bd7df3"
-  integrity sha512-GZ9R7lJnkQVrWfY0Ici5Yq85epMWa0H+++OgFi90Fub2ZVUV79l7l6zn40Rqn0j5qr23KD9G1j1kfCO3QB56GA==
+"@dcloudio/uni-cli-shared@^2.0.0-31920210609001":
+  version "2.0.0-31920210609001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-cli-shared/-/uni-cli-shared-2.0.0-31920210609001.tgz#03803233460ebe3cb3d6b66de774ec80788c4525"
+  integrity sha512-Lp7uVbYxZAxwCbFNSe+2xUWrlzU2Ur3kV7dG1mrpmspD/1OhaW2SoAgUwq5/5xdytEMBNBMV4y7jynJ0mC6Z3g==
   dependencies:
     hash-sum "^1.0.2"
     postcss-urlrewrite "^0.2.2"
