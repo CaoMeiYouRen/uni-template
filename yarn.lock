@@ -1001,7 +1001,7 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-31920210609001.tgz#ea9c4d983899776f8db79095488fac12f457bc13"
   integrity sha512-5+JMZ5MKe4axmr+qQxu2VyjlMno1rPGSutLfshltvoUGCfWiynLQg448Z/Bs+THlN9h+TMgWJZDgB6uXjYI4xw==
 
-"@dcloudio/uni-stat@^2.0.0-31220210205004", "@dcloudio/uni-stat@^2.0.0-31920210609001":
+"@dcloudio/uni-stat@^2.0.0-31920210609001":
   version "2.0.0-31920210609001"
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-31920210609001.tgz#749eafc9120797fb1e2461510145abe9d7f1a700"
   integrity sha512-C7xRbsS1pD075MeqOFHohS+5hTfiM6C3Kcl2dkzSUdrFXaQW7ajuXBxZQXpqxOgywe90kobWpnm2wxiO+rB7Sg==
@@ -11891,10 +11891,10 @@ typedarray@^0.0.6:
   resolved "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^4.3.2:
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.2.tgz#399ab18aac45802d6f2498de5054fcbbe716a805"
-  integrity sha512-zZ4hShnmnoVnAHpVHWpTcxdv7dWP60S2FsydQLV8V5PbS3FifjWFFRiHSWpDJahly88PRyV5teTSLoq4eG7mKw==
+typescript@^4.3.4:
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.4.tgz#3f85b986945bcf31071decdd96cf8bfa65f9dcbc"
+  integrity sha512-uauPG7XZn9F/mo+7MrsRjyvbxFpzemRjKEZXS4AK83oP2KKOJPvb+9cO/gmnv8arWZvhnjVOXz7B49m1l0e9Ew==
 
 uglify-js@3.4.x:
   version "3.4.10"
