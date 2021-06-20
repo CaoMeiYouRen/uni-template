@@ -1001,10 +1001,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-31920210609001.tgz#ea9c4d983899776f8db79095488fac12f457bc13"
   integrity sha512-5+JMZ5MKe4axmr+qQxu2VyjlMno1rPGSutLfshltvoUGCfWiynLQg448Z/Bs+THlN9h+TMgWJZDgB6uXjYI4xw==
 
-"@dcloudio/uni-stat@^2.0.0-31220210205004":
-  version "2.0.0-31220210205004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-31220210205004.tgz#cd0a27251e9b6ee00377d57f2eb539f1154b7eaa"
-  integrity sha512-4vXWst6pBwN7qIr+XqmL3/XxcC9ZhJmggAkUysk/Ge5FM6gkkBc2O1oRSbRZg2KIlvb1dvQLGIRTbOupWt77bQ==
+"@dcloudio/uni-stat@^2.0.0-31220210205004", "@dcloudio/uni-stat@^2.0.0-31920210609001":
+  version "2.0.0-31920210609001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-31920210609001.tgz#749eafc9120797fb1e2461510145abe9d7f1a700"
+  integrity sha512-C7xRbsS1pD075MeqOFHohS+5hTfiM6C3Kcl2dkzSUdrFXaQW7ajuXBxZQXpqxOgywe90kobWpnm2wxiO+rB7Sg==
 
 "@dcloudio/uni-template-compiler@^2.0.0-31220210205004":
   version "2.0.0-31220210205004"
@@ -1030,12 +1030,12 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-31920210609001.tgz#7816974399157883449d562750031a83d5286623"
   integrity sha512-vqFIB6SdOjw7+MEqMmEu0asXKFqb76d+DVWAbnTOV2wPgsOrRJQd70SdVs+qmP/WkT254DX0TgyG6C0owICT2A==
 
-"@dcloudio/vue-cli-plugin-uni@^2.0.0-31220210205004":
-  version "2.0.0-31220210205004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni/-/vue-cli-plugin-uni-2.0.0-31220210205004.tgz#ebb0b528e39c875ddad27c6a62110c81c03dc32a"
-  integrity sha512-0tZx9KFBwlTLq9r7zpSGKiSs9xyuH6s1qEc1gMYTpyvYAz5q0qY0mgsjPNxNE9IC4eClhT5wbXaLozaSJzLAGw==
+"@dcloudio/vue-cli-plugin-uni@^2.0.0-31920210609001":
+  version "2.0.0-31920210609001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni/-/vue-cli-plugin-uni-2.0.0-31920210609001.tgz#d72fc2219a1c330ee3f0a12edb4b1a9ea1b2779c"
+  integrity sha512-bG9tBdIIUOaB6iFwLFPDAhhVQDWUSqRHkfO0o8XH+8LYG3b3owPFUomSkWI7EVW/sDagIXvnr7hALeb9+ms3oA==
   dependencies:
-    "@dcloudio/uni-stat" "^2.0.0-31220210205004"
+    "@dcloudio/uni-stat" "^2.0.0-31920210609001"
     buffer-json "^2.0.0"
     copy-webpack-plugin "^5.1.1"
     cross-env "^5.2.0"
@@ -9671,7 +9671,7 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0:
   resolved "https://registry.npm.taobao.org/postcss-value-parser/download/postcss-value-parser-4.1.0.tgz#443f6a20ced6481a2bda4fa8532a6e55d789a2cb"
   integrity sha1-RD9qIM7WSBor2k+oUypuVdeJoss=
 
-postcss@7.x.x:
+postcss@7.x.x, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.13, postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.21, postcss@^7.0.26, postcss@^7.0.27, postcss@^7.0.31, postcss@^7.0.32, postcss@^7.0.35, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
   version "7.0.36"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
   integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
@@ -9688,15 +9688,6 @@ postcss@^6.0.0:
     chalk "^2.4.1"
     source-map "^0.6.1"
     supports-color "^5.4.0"
-
-postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.13, postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.21, postcss@^7.0.26, postcss@^7.0.27, postcss@^7.0.31, postcss@^7.0.32, postcss@^7.0.35, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
-  version "7.0.35"
-  resolved "https://registry.npm.taobao.org/postcss/download/postcss-7.0.35.tgz?cache=0&sync_timestamp=1607512973373&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpostcss%2Fdownload%2Fpostcss-7.0.35.tgz#d2be00b998f7f211d8a276974079f2e92b970e24"
-  integrity sha1-0r4AuZj38hHYonaXQHny6SuXDiQ=
-  dependencies:
-    chalk "^2.4.2"
-    source-map "^0.6.1"
-    supports-color "^6.1.0"
 
 prelude-ls@^1.2.1:
   version "1.2.1"
