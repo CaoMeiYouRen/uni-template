@@ -1083,9 +1083,9 @@
   integrity sha1-daLotRy3WKdVPWgEpZMteqznXDk=
 
 "@dcloudio/types@*":
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/@dcloudio/types/-/types-2.2.8.tgz#ef0782fadec789a418abe2f7c13336f969aec8ee"
-  integrity sha512-9g9XGf4JCVkFLvWhisS7A2DGRfApDSg/Fwllxv1PK5BjlykSIXmJWyEia3XUE2GtWdP9KghEr/0cho9IrxsaJw==
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/@dcloudio/types/-/types-2.2.10.tgz#a5d34a2cf3f0829947a9063f9dbcfbb36c9b9369"
+  integrity sha512-+GR2bnXMUpe08Mly1KFzibY6r04kLuIW6kfSRdDQ9Q6sBECwxrp4hH0piGFfJ+VfY+FaAyrLlB6xIEx+1Lqt+w==
 
 "@dcloudio/uni-app-plus@^2.0.0-31920210609001":
   version "2.0.0-31920210609001"
