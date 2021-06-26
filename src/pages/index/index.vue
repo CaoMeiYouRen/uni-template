@@ -5,6 +5,7 @@
             <text class="title">
                 {{ title }}
             </text>
+            <uni-icons type="contact" size="30"></uni-icons>
         </view>
     </view>
 </template>
