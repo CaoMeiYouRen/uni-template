@@ -1489,10 +1489,10 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/uni-app@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.npm.taobao.org/@types/uni-app/download/@types/uni-app-1.4.3.tgz?cache=0&sync_timestamp=1605057976310&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Funi-app%2Fdownload%2F%40types%2Funi-app-1.4.3.tgz#251c012bd2408b69bf501fe0dc8f76adb3b0576c"
-  integrity sha1-JRwBK9JAi2m/UB/g3I92rbOwV2w=
+"@types/uni-app@^1.4.4":
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/@types/uni-app/-/uni-app-1.4.4.tgz#fe73d0e7c89d5e750605e088ff6695846e019c36"
+  integrity sha512-ZTXnrCTblZyoLIoKbTv1Whz1nxrTcM7vg0qGXzDpXP8m9MqdjKt48N3FffQT1IsJWNkxbvJ1Eg5UHDaq+k+oBQ==
   dependencies:
     vue "^2.6.8"
 
