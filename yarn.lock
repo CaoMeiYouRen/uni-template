@@ -1387,10 +1387,10 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/html5plus@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npm.taobao.org/@types/html5plus/download/@types/html5plus-1.0.1.tgz#12316597e42f6f87cb25b9c93860f57cd39b3906"
-  integrity sha1-EjFll+Qvb4fLJbnJOGD1fNObOQY=
+"@types/html5plus@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/html5plus/-/html5plus-1.0.2.tgz#43e1aaca4584e7e2cf0db082389f42fbba98062c"
+  integrity sha512-OklP5lrmLq8/6TUOLgWc0LndUVvAiTWX5dnyoCFhIUtFW9opWsnCtG/UxPgeuC28Rv2XNbFfft/hEEI39P/4Ag==
 
 "@types/http-proxy-middleware@*":
   version "0.19.3"
