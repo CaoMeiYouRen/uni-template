@@ -995,10 +995,10 @@
     "@babel/types" "^7.3.3"
     vue-template-compiler "^2.6.10"
 
-"@dcloudio/uni-ui@^1.3.5":
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-ui/-/uni-ui-1.3.5.tgz#f86ab06be0c791200b59db0b7908b9669189f043"
-  integrity sha512-TcYlaz3as/C6suomv2XzlBtpl6j5uoN5hCmDIuofbOBt6gKDu3qOQ7YyF4fdeEcUYelaaXMdrlSccqQdmlK0sQ==
+"@dcloudio/uni-ui@^1.3.6":
+  version "1.3.6"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-ui/-/uni-ui-1.3.6.tgz#5697da57cf2bcef549ba5d93e7e622f073d1f548"
+  integrity sha512-W8eO1f6I6KfAjiUvMqCaPe+vRmUSI+mu8Ji4OEvSeNvxobKjIjzwf6q1QSnoVR2lZwGI9/jaoEx0SS0fXf+RaQ==
 
 "@dcloudio/vue-cli-plugin-hbuilderx@^2.0.0-31920210609001":
   version "2.0.0-31920210609001"
