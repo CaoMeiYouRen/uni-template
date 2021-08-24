@@ -7232,9 +7232,9 @@ minipass@^3.1.1:
     yallist "^4.0.0"
 
 miniprogram-api-typings@*:
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/miniprogram-api-typings/-/miniprogram-api-typings-3.4.2.tgz#625460c4bde4a4c60162cc04dc05636cab6487b4"
-  integrity sha512-3mNPdzSWl6VY34Wc3gRRxJ+P6XkXEYDoZppDq9565unmc4HKp7TIxuOmFSt0xA+jX50NPFAz+Q1dEfv5No8+Wg==
+  version "3.4.3"
+  resolved "https://registry.yarnpkg.com/miniprogram-api-typings/-/miniprogram-api-typings-3.4.3.tgz#c88cc624973322d990353d94ae765db90938d132"
+  integrity sha512-wdBZG2IImFjkTFv66r225455J+//gn4c7Ja99aC3mVV0AqTRl45FwAFA7ur9KZd2j+ORGtyK1ldBT49rXpVE2w==
 
 mississippi@^3.0.0:
   version "3.0.0"
