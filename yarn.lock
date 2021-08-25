@@ -1003,10 +1003,10 @@
     css "~2.2.1"
     escodegen "^1.8.1"
 
-"@dcloudio/vue-cli-plugin-uni-optimize@^2.0.0-31920210709003":
-  version "2.0.0-31920210709003"
-  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-31920210709003.tgz#f134f1629eb59932a5155a7d9a914d5013e11494"
-  integrity sha512-h4i+tuwXDJ++7Whg61QB3rtxvbBHLR3C0hXnAwgfGBQaciqa2C+r+P4VZN2jZN6wWWt722PC7ibngwxwRmgXhA==
+"@dcloudio/vue-cli-plugin-uni-optimize@^2.0.0-32220210818002":
+  version "2.0.0-32220210818002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-32220210818002.tgz#2f7bf40edb2f950753f840e9e7986f317edea644"
+  integrity sha512-n/Fa6xUKUcHAxhgy+taOyopXBz7THlqK+ExdKW+t5PxZMgBs0fGQqyj5tdGOLRD3ZWubMO2awHjUCDB73qfUbA==
 
 "@dcloudio/vue-cli-plugin-uni@^2.0.0-31920210709003":
   version "2.0.0-31920210709003"
