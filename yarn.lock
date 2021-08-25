@@ -929,10 +929,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-360/-/uni-mp-360-2.0.0-32220210818002.tgz#a5a79c0511bb6fe76d8615203ecedac98ed3026e"
   integrity sha512-xLma5ReNlCZ7TNzp58vwlXzA77cqP/BULaKQjxMMeMldgIufDUp7LSzvhTt7/zjNT4ds1WCdzCXroyf+Fin1/A==
 
-"@dcloudio/uni-mp-alipay@^2.0.0-31920210709003":
-  version "2.0.0-31920210709003"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-alipay/-/uni-mp-alipay-2.0.0-31920210709003.tgz#813bf74e70894d21ef907a468f085c32f9387c31"
-  integrity sha512-QZjCtKNyGJGWKwHivmVN0u2vxupAFHcYgJ0/xvpUj+dzDw7uqzdN6niDBRc77H2qezRbq/NoATxhGjn8uV/wsA==
+"@dcloudio/uni-mp-alipay@^2.0.0-32220210818002":
+  version "2.0.0-32220210818002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-alipay/-/uni-mp-alipay-2.0.0-32220210818002.tgz#d2452a16ad5041ed8643b2d8a36eeb25a8f61c81"
+  integrity sha512-wTmIvZ8e3Z+ydscS7PLIdDlcijbogj7CGvi26K+6HDfcRC61hPHy9Ts/qUw+qSmPiSG1xOokCkeGRe/FwQ9QnQ==
 
 "@dcloudio/uni-mp-baidu@^2.0.0-31920210709003":
   version "2.0.0-31920210709003"
