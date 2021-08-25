@@ -924,10 +924,10 @@
     recast "*"
     stricter-htmlparser2 "^3.9.6"
 
-"@dcloudio/uni-mp-360@^2.0.0-31920210709003":
-  version "2.0.0-31920210709003"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-360/-/uni-mp-360-2.0.0-31920210709003.tgz#4dc402256cd4f243cb632273de4908d313f3f936"
-  integrity sha512-akM0AnRDFdg5P1/ZpgYMdXQFhHfi5EOFy+Bu3kG2NGtxkOB1YRODrHPoDGirQcWqKDXxoSbrdtb5zQHaI76AeQ==
+"@dcloudio/uni-mp-360@^2.0.0-32220210818002":
+  version "2.0.0-32220210818002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-360/-/uni-mp-360-2.0.0-32220210818002.tgz#a5a79c0511bb6fe76d8615203ecedac98ed3026e"
+  integrity sha512-xLma5ReNlCZ7TNzp58vwlXzA77cqP/BULaKQjxMMeMldgIufDUp7LSzvhTt7/zjNT4ds1WCdzCXroyf+Fin1/A==
 
 "@dcloudio/uni-mp-alipay@^2.0.0-31920210709003":
   version "2.0.0-31920210709003"
