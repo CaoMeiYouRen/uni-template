@@ -4437,10 +4437,10 @@ escodegen@^1.11.1, escodegen@^1.8.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-cmyr@^1.1.11:
-  version "1.1.11"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.11.tgz#f1bd71266d142e07fbb45e31470e54b8e087da35"
-  integrity sha512-90yX1el5eXvE9Vyr+80hwt5nJmYeMf7gs0VAmh5vS++5FpGa0Wai3SZ2JvUR36NgiqVkvfFadK0ad5hPj6ahGQ==
+eslint-config-cmyr@^1.1.12:
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.12.tgz#070cc1033423179ff988bb64ac730612531013b6"
+  integrity sha512-fswVKSeaq3n6I/cdT4FUB+93XkLropoKH10RWNxefjxiHgQCJOsXAtRAjICU1rVsii6PBVY4XeZyRoUTGqeozg==
 
 eslint-plugin-html@^6.1.2:
   version "6.1.2"
