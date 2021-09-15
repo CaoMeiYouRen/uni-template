@@ -865,9 +865,9 @@
     to-fast-properties "^2.0.0"
 
 "@dcloudio/types@*":
-  version "2.5.6"
-  resolved "https://registry.yarnpkg.com/@dcloudio/types/-/types-2.5.6.tgz#fba90cc0420e123eab09e895d5baceb0b73ebb21"
-  integrity sha512-SvJ2aRViG7aMn/Sf44FnKXcuqAnuYeG2X0NvU6iFiOnC/NKo1n8lWxGy88VnNINic0M1jRaeFKLOhosuAsTndQ==
+  version "2.5.8"
+  resolved "https://registry.yarnpkg.com/@dcloudio/types/-/types-2.5.8.tgz#3aee4b179bb4c13877309dc0fe1ba4ca1ff7d3b0"
+  integrity sha512-H/6I+Ui2F/g/juepMrx3wx2jfOFI8sRlKlAxOMycR2o75/ghVIhJU6GW9hU1DYNActGsM5UhcdpZYLL0qXkr4Q==
 
 "@dcloudio/uni-app-plus@^2.0.0-32220210818002":
   version "2.0.0-32220210818002"
