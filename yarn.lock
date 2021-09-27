@@ -994,10 +994,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-ui/-/uni-ui-1.4.5.tgz#2f51a44bbf26445ecc87bb1e929c9fa15ab7093c"
   integrity sha512-rmW+stsXtrPADaG4VX5I7xKqDUFKIIs8WIUJ/zEbtoZXW+91X1mPnspF/f4wm/T2c63D1j3Ph1SxVs54ln46vA==
 
-"@dcloudio/vue-cli-plugin-hbuilderx@^2.0.0-32320210825001":
-  version "2.0.0-32320210825001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-hbuilderx/-/vue-cli-plugin-hbuilderx-2.0.0-32320210825001.tgz#d8b47fbc11f4bf32872b9841f9973669c1518c62"
-  integrity sha512-cY7gIiA3IcNVx/tVj0S16GzDAEwMDc5C3Xz7D5Amf+Sos3KJ/hupQP2IFhJdYlA41P+6mJQ1K2utRGCF3t1bsg==
+"@dcloudio/vue-cli-plugin-hbuilderx@^2.0.0-32920210927001":
+  version "2.0.0-32920210927001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-hbuilderx/-/vue-cli-plugin-hbuilderx-2.0.0-32920210927001.tgz#9a3b9abbf11af35800b8896a0ce3db443d647063"
+  integrity sha512-9J6hMhhR4etoScK7lQlP1KibAGoQ+TeNvtStFqUKywgaSUC8qcwBANv0muhJIGxgcUZ+3HAowYGiZ7wj4LpkeQ==
   dependencies:
     acorn "^5.2.1"
     css "~2.2.1"
