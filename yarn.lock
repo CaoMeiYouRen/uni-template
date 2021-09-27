@@ -974,7 +974,7 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-32920210927001.tgz#f255f08d766957bd6f43a534fc492946ca7de645"
   integrity sha512-5VwSlMHuBHBLHxAplr9oCU2WhcigbJN7OhPnJPQpP3JaMSdHsGXQj4Sp7f3bBb9L0Is/6IrQMBvRb72+MenvkQ==
 
-"@dcloudio/uni-stat@^2.0.0-32320210825001", "@dcloudio/uni-stat@^2.0.0-32920210927001":
+"@dcloudio/uni-stat@^2.0.0-32920210927001":
   version "2.0.0-32920210927001"
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-32920210927001.tgz#be34ca22d8e62989088e073d59e0ec943923922d"
   integrity sha512-b5+Pa0CZcLsk1pZbItIiPDyx73nlgPx07ZwEvXXkJIymjG1Sz2z13n1+Ib4QNWkODXJXAvnR/wUEUQ1dNuiRvg==
@@ -1008,12 +1008,12 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-32920210927001.tgz#0dae512b385925bca8c9d93cb07f7cf5b4411595"
   integrity sha512-x4zfwzDuf2LRJDsGsn0QX+VWuBd1cuVnmBZfyPSPC4JMOmZIngNIyc5PpGr6S8o1QE1FivcRJS+asvafyww7qw==
 
-"@dcloudio/vue-cli-plugin-uni@^2.0.0-32320210825001":
-  version "2.0.0-32320210825001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni/-/vue-cli-plugin-uni-2.0.0-32320210825001.tgz#19e8ee1f8e8241b0634a22eeef5a7c32832c3413"
-  integrity sha512-bPGah4K3jgDq7flXnbJhNDrWabmbw08yNMJ+wRlf/ofTmMdM+9sWX106rzHrn6IYpgLsejVP+gzwmI7EdjsATg==
+"@dcloudio/vue-cli-plugin-uni@^2.0.0-32920210927001":
+  version "2.0.0-32920210927001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni/-/vue-cli-plugin-uni-2.0.0-32920210927001.tgz#a855a149852f35ecd62f09910d220ebecb4904eb"
+  integrity sha512-zN2dwczcnkrozPFK17APKTW7DBt1mDok66nkhSd25bAVePOHVUVgpjurpACMRzqFwHSZo1ORMh1sHSfcYnkfwQ==
   dependencies:
-    "@dcloudio/uni-stat" "^2.0.0-32320210825001"
+    "@dcloudio/uni-stat" "^2.0.0-32920210927001"
     buffer-json "^2.0.0"
     copy-webpack-plugin "^5.1.1"
     cross-env "^5.2.0"
