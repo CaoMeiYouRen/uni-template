@@ -979,10 +979,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-32920210927001.tgz#be34ca22d8e62989088e073d59e0ec943923922d"
   integrity sha512-b5+Pa0CZcLsk1pZbItIiPDyx73nlgPx07ZwEvXXkJIymjG1Sz2z13n1+Ib4QNWkODXJXAvnR/wUEUQ1dNuiRvg==
 
-"@dcloudio/uni-template-compiler@^2.0.0-32920210927001":
-  version "2.0.0-32920210927001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-template-compiler/-/uni-template-compiler-2.0.0-32920210927001.tgz#1fd3a452ada19eb52ca46a04509743bb6d543029"
-  integrity sha512-FFcL5Kicu9p1j6bXk4gF9+658pcshF8xUrp3Spc3TVXbUG0Ua+UqDkGlpV9KlsbVFGjvdnhZWzE389Y0BJRT9Q==
+"@dcloudio/uni-template-compiler@^2.0.0-32920210927002":
+  version "2.0.0-32920210927002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-template-compiler/-/uni-template-compiler-2.0.0-32920210927002.tgz#158e1fe55f5d96ca8f5f569181d9f5298aa33439"
+  integrity sha512-5/jEBMV+qOt1SfQ/RfGnKkzkrsxhbJZx+K1d25gd6d056OS9LgjlmS3xeXNg84c/XkJWwTgOoFvDXo6RrtlA6w==
   dependencies:
     "@babel/parser" "^7.3.3"
     "@babel/traverse" "^7.3.3"
