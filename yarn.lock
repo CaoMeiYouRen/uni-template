@@ -939,10 +939,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-baidu/-/uni-mp-baidu-2.0.0-32920210927001.tgz#63e0a9524a43701e731b043aee031ec65f88babc"
   integrity sha512-76RFvwhZQX3LM/kXc1+kNKLERXgeholenzT/BEfTxNgsN4pajXZOYWfrUXKUwnxgKL+qwWrULDAVQ5WZQfe/og==
 
-"@dcloudio/uni-mp-qq@^2.0.0-32920210927001":
-  version "2.0.0-32920210927001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-qq/-/uni-mp-qq-2.0.0-32920210927001.tgz#16de3d5a7aea336179f95d2cd247c0a6155de488"
-  integrity sha512-J1+7dLCLmRScTH9b3bdphla6Ni0PJ15PEAXNPj4KcyoJ+UgfNa06X0s2PGJerashimwpjnWJ4p94V1WiF7zSdw==
+"@dcloudio/uni-mp-qq@^2.0.0-32920210927002":
+  version "2.0.0-32920210927002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-qq/-/uni-mp-qq-2.0.0-32920210927002.tgz#89af4249fa54995caf73ed9dd2060eede1288c29"
+  integrity sha512-frZVyZgCYE+28E63ZdRajqvy+zA8p4EvYe1SMTZ9n+u7qGj5kMnwkyYyQG7WXFWCrlShOqcpG8hJJ3agCPGctw==
 
 "@dcloudio/uni-mp-toutiao@^2.0.0-32920210927002":
   version "2.0.0-32920210927002"
