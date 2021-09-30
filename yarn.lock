@@ -874,10 +874,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-app-plus/-/uni-app-plus-2.0.0-32920210927001.tgz#055242510f0e7f983f85f73da149f42ed058c96b"
   integrity sha512-SC3YFJA9YQibmz9DTahHfcmeeLvLf3BBTwyb7M+PasO8jsCbrTeQhmWABF8k6S6fW52H3wmTOZhwURFz8AM9pg==
 
-"@dcloudio/uni-automator@^2.0.0-32920210927001":
-  version "2.0.0-32920210927001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-automator/-/uni-automator-2.0.0-32920210927001.tgz#0020d2c69812fe808a34b64435fafae3c99482ae"
-  integrity sha512-5nGvgpaZyhyXmhifHHWT4MK3Vqi0Gplp3JDSGQS4/9ZJzG4nXki7fA6l+ba9hePDfrdv+DSlRuhP5GjKSziiHw==
+"@dcloudio/uni-automator@^2.0.0-32920210927002":
+  version "2.0.0-32920210927002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-automator/-/uni-automator-2.0.0-32920210927002.tgz#299d3668d2e1d48577dfd73597c7cdd6f22c3f89"
+  integrity sha512-ds15jcr+ZUMbn/sYeK5hjPq3ugCOXbUd1b0Ho++7CrwK6r1jY8Pm89SxQT2T6zKxqzh0nKIvidPVTT1zIE6jmA==
   dependencies:
     address "^1.1.2"
     debug "^4.1.1"
