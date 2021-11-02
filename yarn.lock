@@ -987,7 +987,7 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-32920211029001.tgz#95075990ee19f9b44549ac8cbbe62fbd211befbd"
   integrity sha512-EFv4AnhHEfd/Rao6PsvsQZItSVisxxEGITc6V44xThNCOG+2TuBRtxdZb7LXgW4CwfpA9Hc7ryLWCpTQZfn6gA==
 
-"@dcloudio/uni-stat@^2.0.0-32920210927002", "@dcloudio/uni-stat@^2.0.0-32920211029001":
+"@dcloudio/uni-stat@^2.0.0-32920211029001":
   version "2.0.0-32920211029001"
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-32920211029001.tgz#608f309cc23999f0895c1fb3ae61bc3f1d616d9f"
   integrity sha512-J6S+RH1WSl4KP8gV9VZ1bPtxaoNezzA0hHhcoNAvaJEQYGi2NnvYslq16whGlaZpxjte1TJ/KHqC0HSP2VTwLw==
@@ -1016,10 +1016,10 @@
     css "~2.2.1"
     escodegen "^1.8.1"
 
-"@dcloudio/vue-cli-plugin-uni-optimize@^2.0.0-32920210927002":
-  version "2.0.0-32920210927002"
-  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-32920210927002.tgz#073e463c163c5ccc9c4c4eefcb2d1a0ec8ec99af"
-  integrity sha512-VQI0TkedFsnDWmcTINYbnkzINgiWQiR3plOlqfF32zTd20vt/MoGND2lcJmm0Qp2vlNsS0ISIxChvPOnFw8VyQ==
+"@dcloudio/vue-cli-plugin-uni-optimize@^2.0.0-32920211029001":
+  version "2.0.0-32920211029001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-32920211029001.tgz#818768e3956356aecda7b552ab9ba59b891df5f0"
+  integrity sha512-ilx1QGfN8WpRb6ulWRrljTY2b+StuTlBs+gZ2bN9l8rTHRhl6i+nBBpaNlxRLvXuLNKEv+UV8gDH42ki/dCtrw==
 
 "@dcloudio/vue-cli-plugin-uni@^2.0.0-32920211029001":
   version "2.0.0-32920211029001"
