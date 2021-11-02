@@ -59,7 +59,7 @@
     "@dcloudio/uni-mp-weixin": "^2.0.0-32920210927002",
     "@dcloudio/uni-quickapp-native": "^2.0.0-32920211029001",
     "@dcloudio/uni-quickapp-webview": "^2.0.0-32920210927002",
-    "@dcloudio/uni-stat": "^2.0.0-32920210927002",
+    "@dcloudio/uni-stat": "^2.0.0-32920211029001",
     "@dcloudio/uni-ui": "^1.4.6",
     "@vue/shared": "^3.2.20",
     "core-js": "^3.19.0",
