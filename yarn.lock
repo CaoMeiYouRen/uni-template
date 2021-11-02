@@ -1021,12 +1021,12 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni-optimize/-/vue-cli-plugin-uni-optimize-2.0.0-32920210927002.tgz#073e463c163c5ccc9c4c4eefcb2d1a0ec8ec99af"
   integrity sha512-VQI0TkedFsnDWmcTINYbnkzINgiWQiR3plOlqfF32zTd20vt/MoGND2lcJmm0Qp2vlNsS0ISIxChvPOnFw8VyQ==
 
-"@dcloudio/vue-cli-plugin-uni@^2.0.0-32920210927002":
-  version "2.0.0-32920210927002"
-  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni/-/vue-cli-plugin-uni-2.0.0-32920210927002.tgz#586e3a1cfe79376cc21a4d53991cab3878e7fcb5"
-  integrity sha512-JNy4nog3BFMkH2BAmH/Qyxr8fdWeQPKPeiYz85XIIfjdVWRgmp/ola5VCEYiNPZl0fKL2hYWmDihi3kmzA0zpQ==
+"@dcloudio/vue-cli-plugin-uni@^2.0.0-32920211029001":
+  version "2.0.0-32920211029001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/vue-cli-plugin-uni/-/vue-cli-plugin-uni-2.0.0-32920211029001.tgz#170342b53279c27336b1ff9beb6d40a0c3e9e156"
+  integrity sha512-KuqWNEf97vQ/8HIUjD9YU3ITkbMgan0XuOF5BM/sOL/JkBe2t15e8nLckaGqtln6414B7kyxyY2zOhGJBHqZGQ==
   dependencies:
-    "@dcloudio/uni-stat" "^2.0.0-32920210927002"
+    "@dcloudio/uni-stat" "^2.0.0-32920211029001"
     buffer-json "^2.0.0"
     copy-webpack-plugin "^5.1.1"
     cross-env "^5.2.0"
