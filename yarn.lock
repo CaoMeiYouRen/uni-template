@@ -906,10 +906,10 @@
     postcss-urlrewrite "^0.2.2"
     strip-json-comments "^2.0.1"
 
-"@dcloudio/uni-h5@^2.0.0-32920210927002":
-  version "2.0.0-32920210927002"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-h5/-/uni-h5-2.0.0-32920210927002.tgz#e9054d397571bdb0c47b4d39161bb1729f6d982c"
-  integrity sha512-/T4deZdwTXVxfmApAb57RfIax8p1HTbDv3lpCPVnMgtt3W77z1d4zLefPUjokcSRzHITaVbAOvwqSl+inawRKw==
+"@dcloudio/uni-h5@^2.0.0-32920211029001":
+  version "2.0.0-32920211029001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-h5/-/uni-h5-2.0.0-32920211029001.tgz#de4546b4a2e3f04951e429f8ff2477f3f689f9de"
+  integrity sha512-2p0/8sAhiOGR+IEvFUHzdYf+5VV4aOVz7W2hgZm0G6QJx3WrjHhLdDOzqUR+1I6m12+94q/MlQzvsTmjCSRAZw==
   dependencies:
     base64-arraybuffer "^0.2.0"
     intersection-observer "^0.7.0"
