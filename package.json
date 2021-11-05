@@ -81,7 +81,7 @@
     "@dcloudio/uni-cli-i18n": "^2.0.0-32920211029001",
     "@dcloudio/vue-cli-plugin-uni": "^2.0.0-32920211029001",
     "@dcloudio/vue-cli-plugin-uni-optimize": "^2.0.0-32920211029001",
-    "@dcloudio/webpack-uni-mp-loader": "^2.0.0-32920211029001",
+    "@dcloudio/webpack-uni-mp-loader": "^2.0.0-32920211029004",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.0-32920211029004",
     "@types/html5plus": "^1.0.2",
     "@types/node": "^16.11.6",
