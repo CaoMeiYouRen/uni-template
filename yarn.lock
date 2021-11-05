@@ -967,10 +967,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-vue/-/uni-mp-vue-2.0.0-32920211029004.tgz#ef7b8349f8dd947f136974fef9739974aedafde1"
   integrity sha512-mj1hgkWIvjzkbv+UaVmUzQdX686zNJXsvytVrL9VnF/MgCf46ndFfkTiIAzlNHOzfwplYa92F4AUbGfeRSiBpA==
 
-"@dcloudio/uni-mp-weixin@^2.0.0-32920211029001":
-  version "2.0.0-32920211029001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-weixin/-/uni-mp-weixin-2.0.0-32920211029001.tgz#2709389b21ed9d2c9b6a0061373cfffbe79a8d31"
-  integrity sha512-8J8rMwFZD1t5D4ytxkS99F9V5L2VQxHhZyPSwRRMnUQ63Jzf1I59dK+npg7ZQnaAPFqphncvjv3AFDE18uLE8w==
+"@dcloudio/uni-mp-weixin@^2.0.0-32920211029004":
+  version "2.0.0-32920211029004"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-mp-weixin/-/uni-mp-weixin-2.0.0-32920211029004.tgz#25d0813d1784945ba0ce1b7359191fb29bb202f1"
+  integrity sha512-deMAlUG4KvuGLkE7HU7br5c7ot7tkb4jA0OYWrBsqm0w4xledT7vclhmVXdJ2NwP0d0nylYuLTlLRAWFs7UWvg==
 
 "@dcloudio/uni-quickapp-native@^2.0.0-32920211029004":
   version "2.0.0-32920211029004"
