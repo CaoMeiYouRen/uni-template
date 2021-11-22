@@ -926,10 +926,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-i18n/-/uni-i18n-2.0.0-32920211029004.tgz#cb952e19176b17b731e02ca3e3e2032d4c4e1896"
   integrity sha512-uFiguiEGQ0pYvdNAuo5Sf1hhAuvEcR392H5iu6qYetRuDCh2/DDGfOCR0iZ5G66AbPRcqNRvN1bRNoR5UJIs3Q==
 
-"@dcloudio/uni-migration@^2.0.0-32920211029004":
-  version "2.0.0-32920211029004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-migration/-/uni-migration-2.0.0-32920211029004.tgz#b6cb166e0fdb7d66c02a2e9067b7df42aad85d3e"
-  integrity sha512-+oqp3k0gmoFSkt7oSzGguEqVQSFhBHkgFhzSj9DUpXA//D1h+5PGlCu413lWGR2567uKB8Olc4iQsAb6cLQG4w==
+"@dcloudio/uni-migration@^2.0.0-32920211120001":
+  version "2.0.0-32920211120001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-migration/-/uni-migration-2.0.0-32920211120001.tgz#dfc3e43969a7888a78e306fd08c8372fdf45d2d4"
+  integrity sha512-Cpa1iIieJffVSp8bjGMt/D4NO9fRNGcFJYawCVPrHsuTRJM4fTuiyI1vSjxH12zW5Uk3nKe3LqpSf/BUE+sWrg==
   dependencies:
     commander "^4.0.1"
     fs-extra "^8.1.0"
