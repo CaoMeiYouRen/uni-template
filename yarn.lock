@@ -921,10 +921,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-helper-json/-/uni-helper-json-1.0.13.tgz#4e8aa062daaefb30d98973c035a7b0ab628329c7"
   integrity sha512-FO9Iu4zW4td3Tr+eiCDWuele2ehkJ4qxQ/UhpAMLjso+ZdWz6NagK5Syh6cdy1hoDqbxpNoqnLynuJXe81Ereg==
 
-"@dcloudio/uni-i18n@^2.0.0-32920211029004":
-  version "2.0.0-32920211029004"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-i18n/-/uni-i18n-2.0.0-32920211029004.tgz#cb952e19176b17b731e02ca3e3e2032d4c4e1896"
-  integrity sha512-uFiguiEGQ0pYvdNAuo5Sf1hhAuvEcR392H5iu6qYetRuDCh2/DDGfOCR0iZ5G66AbPRcqNRvN1bRNoR5UJIs3Q==
+"@dcloudio/uni-i18n@^2.0.0-32920211120001":
+  version "2.0.0-32920211120001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-i18n/-/uni-i18n-2.0.0-32920211120001.tgz#c74eee19bbd8610d5527d2c87a63508d23e45518"
+  integrity sha512-GeSazXfoFgAMx4aUDMgbCLiOlm7JqwGr+h6xEm71jx3QGUcyQOBCaOyOAeVpMxIS9zYDY+X5oyALGYjUStsVOw==
 
 "@dcloudio/uni-migration@^2.0.0-32920211120001":
   version "2.0.0-32920211120001"
