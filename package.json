@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@dcloudio/uni-app-plus": "^2.0.0-32920211029004",
-    "@dcloudio/uni-h5": "^2.0.0-32920211029004",
+    "@dcloudio/uni-h5": "^2.0.0-32920211120001",
     "@dcloudio/uni-helper-json": "*",
     "@dcloudio/uni-i18n": "^2.0.0-32920211029004",
     "@dcloudio/uni-mp-360": "^2.0.0-32920211120001",
