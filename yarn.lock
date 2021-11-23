@@ -869,10 +869,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/types/-/types-2.5.13.tgz#54d08b0cca652a088418baf6b12d3ceb8ac84c70"
   integrity sha512-lrIaTmYEindkyxyLPIEXJ4USImSNb9EcLy5s+NbR02UXR2mOc245GwMxtAjEtpNstTce37aZcry8UJFzhHXcXw==
 
-"@dcloudio/uni-app-plus@^2.0.0-32920211120001":
-  version "2.0.0-32920211120001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-app-plus/-/uni-app-plus-2.0.0-32920211120001.tgz#e265917c5b3760a6291d1df171622a793083b040"
-  integrity sha512-/LYV4NacDL86Q3R6yiUewasQZFHuZrOPqhQHi7jCcTYqQ0JqS9mQRbSvZfw7x+Z9ZKX/Nw4i9goDeAMeT/lacg==
+"@dcloudio/uni-app-plus@^2.0.0-32920211122002":
+  version "2.0.0-32920211122002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-app-plus/-/uni-app-plus-2.0.0-32920211122002.tgz#173b9ccba08db0be315a4b9edd1f91abdf45d6c0"
+  integrity sha512-N4C5wjBkwF8WQo1+9u5Lk2Od+K5EQ5B3AwyP+V7UCVDbkZ898D0xzZsREPhdgr5YtvzCyqTJ2345nW1nw4sg3Q==
 
 "@dcloudio/uni-automator@^2.0.0-32920211120001":
   version "2.0.0-32920211120001"
