@@ -889,10 +889,10 @@
     qrcode-terminal "^0.12.0"
     ws "^7.2.3"
 
-"@dcloudio/uni-cli-i18n@^2.0.0-32920211120001":
-  version "2.0.0-32920211120001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-cli-i18n/-/uni-cli-i18n-2.0.0-32920211120001.tgz#58c42e2c6645dc30bd076ebb21a237ef5ba5b6b2"
-  integrity sha512-k4qo/3q9M1F6pUu48XDndH08Sv1XR4AWo7kwm+iBfx8rBGjxY19+5WzLm4h3Cur0vf/cp554aG9haSWDNPHKHw==
+"@dcloudio/uni-cli-i18n@^2.0.0-32920211122002":
+  version "2.0.0-32920211122002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-cli-i18n/-/uni-cli-i18n-2.0.0-32920211122002.tgz#ed2e88dced930cb70d137bbecd2f526e08efc847"
+  integrity sha512-Plc/xX4ifo3G4hVEmjEwwknLyZG6FT/4V8ZlRthn796+qUEcFFVCYevqrPtz2G4HuxFQnpLZWQ7vBUJuOaPUEQ==
   dependencies:
     i18n "^0.13.3"
     os-locale-s-fix "^1.0.8-fix-1"
