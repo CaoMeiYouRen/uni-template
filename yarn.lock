@@ -987,10 +987,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/uni-quickapp-webview/-/uni-quickapp-webview-2.0.0-32920211120001.tgz#99c5457845df97b2731bc38c7c32d51392935a58"
   integrity sha512-Ub+4Tz6/wtKWuBNCgxd37KdxyR8sRaYMebpIBbyJ5F2QQ0koOp8Ki4/X5+i5QwAMq8ApuIEiXlZp0zItm5Sorg==
 
-"@dcloudio/uni-stat@^2.0.0-32920211120001":
-  version "2.0.0-32920211120001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-32920211120001.tgz#6e71323dd9320371e69765a72adaa19c5072fddf"
-  integrity sha512-P28X88env5uK6/J/Vh9qTmVCdS1bZ18gEx6fSbOhXZ0Sf4qBFyVSEVwO6cwZI/1f2sh2nDN0WEtnJ1BDvMDRYA==
+"@dcloudio/uni-stat@^2.0.0-32920211120001", "@dcloudio/uni-stat@^2.0.0-32920211122002":
+  version "2.0.0-32920211122002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-stat/-/uni-stat-2.0.0-32920211122002.tgz#766d9737b9fcb28e2e2b9002e6f4f587ca87e04d"
+  integrity sha512-UIhdwBNlLpSReEz3ZBU4s4QWd0IxBB7bxgQwKGf+vEHrb2h4CH2r5A6JkbkQX/H2mvkDhxeNCMMPxTN2rLb3yQ==
 
 "@dcloudio/uni-template-compiler@^2.0.0-32920211120001":
   version "2.0.0-32920211120001"
