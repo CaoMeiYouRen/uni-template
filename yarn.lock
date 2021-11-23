@@ -1051,10 +1051,10 @@
   resolved "https://registry.yarnpkg.com/@dcloudio/webpack-uni-mp-loader/-/webpack-uni-mp-loader-2.0.0-32920211120001.tgz#64cd65b103640151cb1749232e599965c01847a4"
   integrity sha512-S3lkqLsveFRgCL9FHmNdrn73ZO71u9jrUKUhGcOClq84tg/n0rdX/mG75W/xWMm5qnphZphpgcf1TLYNObRM7g==
 
-"@dcloudio/webpack-uni-pages-loader@^2.0.0-32920211120001":
-  version "2.0.0-32920211120001"
-  resolved "https://registry.yarnpkg.com/@dcloudio/webpack-uni-pages-loader/-/webpack-uni-pages-loader-2.0.0-32920211120001.tgz#3e342ab0aaf78c18ca0e8cfffa5e1cb70e4d6c99"
-  integrity sha512-ziA3YwO9fNbUgYzNQXgGFwqpAGEZYWyx4CVJ++dzGG4WRvg0DNAVNRgftSuC6oJv532xOdeYGrTENKULJShgZw==
+"@dcloudio/webpack-uni-pages-loader@^2.0.0-32920211122002":
+  version "2.0.0-32920211122002"
+  resolved "https://registry.yarnpkg.com/@dcloudio/webpack-uni-pages-loader/-/webpack-uni-pages-loader-2.0.0-32920211122002.tgz#ac7a6de0423cf94fe06435a5bedaa2c59d2ad03c"
+  integrity sha512-g7R/jpM8dZfwQVzV+/xFMjWcqJ02f1tqwXILGyoGqyEzvA47OTJmzi9Te/6df00di/voGe2IZryLCQqLPJRsvg==
   dependencies:
     merge "^1.2.1"
     strip-json-comments "^2.0.1"
