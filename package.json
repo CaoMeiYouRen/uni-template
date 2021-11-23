@@ -73,7 +73,7 @@
   "devDependencies": {
     "@babel/plugin-syntax-typescript": "^7.16.0",
     "@dcloudio/types": "*",
-    "@dcloudio/uni-automator": "^2.0.0-32920211120001",
+    "@dcloudio/uni-automator": "^2.0.0-32920211122002",
     "@dcloudio/uni-cli-shared": "^2.0.0-32920211120001",
     "@dcloudio/uni-migration": "^2.0.0-32920211122002",
     "@dcloudio/uni-template-compiler": "^2.0.0-32920211120001",
