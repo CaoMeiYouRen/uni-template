@@ -60,7 +60,7 @@
     "@dcloudio/uni-quickapp-native": "^2.0.0-32920211122002",
     "@dcloudio/uni-quickapp-webview": "^2.0.0-32920211122002",
     "@dcloudio/uni-stat": "^2.0.0-32920211122002",
-    "@dcloudio/uni-ui": "^1.4.8",
+    "@dcloudio/uni-ui": "^1.4.9",
     "@vue/shared": "^3.2.22",
     "core-js": "^3.19.1",
     "flyio": "^0.6.14",
