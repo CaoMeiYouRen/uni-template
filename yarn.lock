@@ -906,14 +906,13 @@
     postcss-urlrewrite "^0.2.2"
     strip-json-comments "^2.0.1"
 
-"@dcloudio/uni-h5@^2.0.0-32920211122002":
-  version "2.0.0-32920211122002"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-h5/-/uni-h5-2.0.0-32920211122002.tgz#9ce33e0e2df7d3d81b1b4162915d1c46ccf1a017"
-  integrity sha512-+Uz+CgMypQtxspPmnA7tt1oNwrC2YOLMZhsnhRsRYjEKi6KH9uh0j8vHhNYoSMhCDG6/L9QFJ2P343au8nDZcg==
+"@dcloudio/uni-h5@^2.0.0-261120200409001":
+  version "2.0.0-261120200409001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-h5/-/uni-h5-2.0.0-261120200409001.tgz#751b10fd4fb8595b9f3551f3e786feaff5ad52fa"
+  integrity sha512-goyZNAtQh/4djkCoOFax/0OjW+hpS4qLbgzCdKxOFIP3yKOUwqTVjsjXa/KMoYIq52hRimTUAQAJktXm50SKUA==
   dependencies:
     base64-arraybuffer "^0.2.0"
     intersection-observer "^0.7.0"
-    pako "^1.0.11"
     safe-area-insets "^1.4.1"
 
 "@dcloudio/uni-helper-json@*":
@@ -7893,7 +7892,7 @@ p-try@^2.0.0:
   resolved "https://registry.npm.taobao.org/p-try/download/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha1-yyhoVA4xPWHeWPr741zpAE1VQOY=
 
-pako@^1.0.11, pako@~1.0.2, pako@~1.0.5:
+pako@~1.0.2, pako@~1.0.5:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.11.tgz#6c9599d340d54dfd3946380252a35705a6b992bf"
   integrity sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw==
