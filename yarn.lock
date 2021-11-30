@@ -1046,10 +1046,10 @@
     wrap-loader "^0.2.0"
     xregexp "4.0.0"
 
-"@dcloudio/webpack-uni-mp-loader@^2.0.0-32920211122002":
-  version "2.0.0-32920211122002"
-  resolved "https://registry.yarnpkg.com/@dcloudio/webpack-uni-mp-loader/-/webpack-uni-mp-loader-2.0.0-32920211122002.tgz#44de49eccdf87d89e67139ec2f241377ce9c9afc"
-  integrity sha512-VFBCuOFDpwBZNyUtr8gHV96yaMMdA46xseWoteWUMhoEVSe0AebcJSrylu9CkBr6vA/KUc3t18RtEm6JwQqjGA==
+"@dcloudio/webpack-uni-mp-loader@^2.0.0-261120200409001":
+  version "2.0.0-261120200409001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/webpack-uni-mp-loader/-/webpack-uni-mp-loader-2.0.0-261120200409001.tgz#f584a69ed433d0f43bd74313356509ad09e31cb8"
+  integrity sha512-ZhW8EYBvB2ouELy5iSg+ffjZnwgSCQCY314W0wI5uuL8gAKIR5H5/Cb5Xj0e4e/XgyQGFoEtpI1jfn3LP4Fi3w==
 
 "@dcloudio/webpack-uni-pages-loader@^2.0.0-32920211122002":
   version "2.0.0-32920211122002"
