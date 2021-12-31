@@ -897,10 +897,10 @@
     i18n "^0.13.3"
     os-locale-s-fix "^1.0.8-fix-1"
 
-"@dcloudio/uni-cli-shared@^2.0.0-32920211122002":
-  version "2.0.0-32920211122002"
-  resolved "https://registry.yarnpkg.com/@dcloudio/uni-cli-shared/-/uni-cli-shared-2.0.0-32920211122002.tgz#1fb7949d9c4ae5bd06b7eeaa540230f5d6549935"
-  integrity sha512-krZxbBg4j184DRzMveqDCimQvnTkgb9kgkEzNYprzA4vaT4A8xtkeCQaG1t9pIEGc2bi7eprmPvmBCPvBB9j9Q==
+"@dcloudio/uni-cli-shared@^2.0.0-261120200409001":
+  version "2.0.0-261120200409001"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-cli-shared/-/uni-cli-shared-2.0.0-261120200409001.tgz#94d11c45b50ca1a088692f06fea2fb944e30939d"
+  integrity sha512-mmEkRydY/Ic88QKvpo6UV1AgDT0SPhbvrWbLtmTo01bzWZTzZou6LR4O+N6qCXLdlaSI7lIgiMSEYx666B0IEg==
   dependencies:
     hash-sum "^1.0.2"
     postcss-urlrewrite "^0.2.2"
