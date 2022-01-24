@@ -14,4 +14,4 @@ updates:
       timezone: "Asia/Shanghai"
     ignore:
       - dependency-name: "stylelint*"
-      # - dependency-name: "@dcloudio/*"
+      - dependency-name: "@dcloudio/*"
