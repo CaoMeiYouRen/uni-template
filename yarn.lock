@@ -4532,10 +4532,10 @@ escodegen@^1.11.1, escodegen@^1.8.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-cmyr@^1.1.14:
-  version "1.1.16"
-  resolved "https://registry.npmmirror.com/eslint-config-cmyr/download/eslint-config-cmyr-1.1.16.tgz#1011908af2bc646002eb7c5262c992ef7dc710d8"
-  integrity sha512-/evvYW1SYjwzRKjCVXZKLNoLvq5xWEOKQF6FpAFL0d/zakx1Bbv3Yg09axJ3ozBZ5PZhvvsOmWt2CbL+q8al7w==
+eslint-config-cmyr@^1.1.17:
+  version "1.1.17"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.17.tgz#4cd138c1916178c8810028a4e093c0c52dd472ec"
+  integrity sha512-4R69n4pXKToZwY4m8eH1c21bIFFXgMB1jkr3NrpexIJFFErUW3aaqwa5ZXnsGuQ/OCZs09P2WSNzDRnJmqIOzA==
 
 eslint-plugin-html@^6.2.0:
   version "6.2.0"
