@@ -65,7 +65,7 @@
     "core-js": "^3.23.3",
     "flyio": "^0.6.14",
     "regenerator-runtime": "^0.13.9",
-    "vue": "^2.6.14",
+    "vue": "^2.7.0",
     "vue-class-component": "^7.2.6",
     "vue-property-decorator": "^9.0.2",
     "vuex": "^3.6.2"
@@ -111,7 +111,7 @@
     "stylelint-scss": "^3.21.0",
     "stylelint-webpack-plugin": "^3.1.1",
     "typescript": "^4.7.4",
-    "vue-template-compiler": "^2.6.14"
+    "vue-template-compiler": "^2.7.0"
   },
   "browserslist": [
     "Android >= 4",
