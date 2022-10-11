@@ -86,7 +86,7 @@
     "@types/html5plus": "^1.0.2",
     "@types/node": "^18.8.4",
     "@types/uni-app": "^1.4.4",
-    "@typescript-eslint/eslint-plugin": "^5.39.0",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
     "@typescript-eslint/parser": "^5.40.0",
     "@vue/cli-plugin-babel": "^4.5.15",
     "@vue/cli-plugin-typescript": "^4.5.15",
