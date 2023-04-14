@@ -62,7 +62,7 @@
     "@dcloudio/uni-stat": "^2.0.0-32920211122002",
     "@dcloudio/uni-ui": "^1.4.10",
     "@vue/shared": "^3.2.47",
-    "core-js": "^3.30.0",
+    "core-js": "^3.30.1",
     "flyio": "^0.6.14",
     "regenerator-runtime": "^0.13.11",
     "vue": "^2.7.14",
