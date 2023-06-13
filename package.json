@@ -84,7 +84,7 @@
     "@dcloudio/webpack-uni-mp-loader": "^2.0.0-32920211122002",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.0-32920211122002",
     "@types/html5plus": "^1.0.2",
-    "@types/node": "^20.3.0",
+    "@types/node": "^20.3.1",
     "@types/uni-app": "^1.4.4",
     "@typescript-eslint/eslint-plugin": "^5.59.11",
     "@typescript-eslint/parser": "^5.59.9",
