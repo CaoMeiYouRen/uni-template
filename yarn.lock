@@ -1597,10 +1597,10 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/uni-app@^1.4.4":
-  version "1.4.4"
-  resolved "https://registry.npmmirror.com/@types/uni-app/download/@types/uni-app-1.4.4.tgz#fe73d0e7c89d5e750605e088ff6695846e019c36"
-  integrity sha1-/nPQ58idXnUGBeCI/2aVhG4BnDY=
+"@types/uni-app@^1.4.5":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@types/uni-app/-/uni-app-1.4.5.tgz#45257aab8f0b53f23a919f486ed840111b09b5a8"
+  integrity sha512-xVxlWeU6X+lpMGTS5c1eVYexUGyvQu0gS/KarRG6czJHFkFlLtV4+5GcoQHraM6PXkR6LlMxQdCVvMSs8zznaQ==
   dependencies:
     vue "^2.6.8"
 
