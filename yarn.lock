@@ -1617,10 +1617,10 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/html5plus@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@types/html5plus/-/html5plus-1.0.3.tgz#11773b959a4976abfa030a1fef8c50f2e66eb93a"
-  integrity sha512-vcwWdpGTDIxpwleAJQQzofWsMxDsGlayMiTo5thlMvNTw4rW/+YhdhVgil/+itehz9buhwkHX4u9kUVH++lONw==
+"@types/html5plus@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@types/html5plus/-/html5plus-1.0.4.tgz#01b21533999e5475b6671ccd61db0658a0bb3d32"
+  integrity sha512-JAod3vGUcFiJOXGutpWkPvPmOSXJlQIBn93FETlydK/GNvWe9Adl5aVAeLrqsNEuS7GO4KG9pumDu+11mQDp0Q==
 
 "@types/http-proxy@^1.17.5":
   version "1.17.8"
