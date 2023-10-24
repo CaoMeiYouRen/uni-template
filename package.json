@@ -97,7 +97,7 @@
     "eslint": "^8.52.0",
     "eslint-config-cmyr": "^1.1.30",
     "eslint-plugin-html": "^7.1.0",
-    "eslint-plugin-vue": "^9.17.0",
+    "eslint-plugin-vue": "^9.18.0",
     "mini-types": "*",
     "miniprogram-api-typings": "*",
     "postcss-comment": "^2.0.0",
