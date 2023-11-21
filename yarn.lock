@@ -1718,10 +1718,10 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/uni-app@^1.4.7":
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/@types/uni-app/-/uni-app-1.4.7.tgz#c89ca16b513e6c1933fc06aad02d35a7526b6b26"
-  integrity sha512-xvZqrYbJlvESACa6UvgCf52FenKaaRMPhalk0SvaJeYg1+IXOA07ASt5KVj+GYjkK1HQIWd+Mlc22CFoyo+aaw==
+"@types/uni-app@^1.4.8":
+  version "1.4.8"
+  resolved "https://registry.yarnpkg.com/@types/uni-app/-/uni-app-1.4.8.tgz#9d34931c2841863b1b42af3964a0f910342ce9f8"
+  integrity sha512-plxwi9MvGDrekCsDKuNlCN3ZXIv9zkqHsKZJOsc8FQqLSHveDBOm11qOaswe4QyNWVHpvwZMViii/Ni1/d40LA==
   dependencies:
     vue "^2.6.8"
 
