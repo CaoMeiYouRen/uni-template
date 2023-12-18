@@ -64,7 +64,7 @@
     "@vue/shared": "^3.3.11",
     "core-js": "^3.34.0",
     "flyio": "^0.6.14",
-    "regenerator-runtime": "^0.14.0",
+    "regenerator-runtime": "^0.14.1",
     "vue": "^2.7.15",
     "vue-class-component": "^7.2.6",
     "vue-property-decorator": "^9.0.2",
