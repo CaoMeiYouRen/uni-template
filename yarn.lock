@@ -4828,10 +4828,10 @@ eslint-config-cmyr@^1.1.31:
   resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.31.tgz#f574ec3eff88fccf1d9b6d688126a8ca8b494105"
   integrity sha512-A7t9y24zMXEe5autUYq4iaULnoDvd3M+MlYoCCCAzOE5o/kS+5aoCpmFvXVkSwJEyZ9Qo/LePSiqq0uai2xrfg==
 
-eslint-plugin-html@^8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-html/-/eslint-plugin-html-8.1.1.tgz#504444f39e3ccb64502ac68dc6c534567aa56492"
-  integrity sha512-6qmlJsc40D2m3Dn9oEH+0PAOkJhxVu0f5sVItqpCE0YWgYnyP4xCjBc3UWTHaJcY9ARkWOLIIuXLq0ndRnQOHw==
+eslint-plugin-html@^8.1.2:
+  version "8.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-html/-/eslint-plugin-html-8.1.2.tgz#3a7a092d1e19e7e494014ed0747c5873856d7e1c"
+  integrity sha512-pbRchDV2SmqbCi/Ev/q3aAikzG9BcFe0IjjqjtMn8eTLq71ZUggyJB6CDmuwGAXmYZHrXI12XTfCqvgcnPRqGw==
   dependencies:
     htmlparser2 "^9.1.0"
 
