@@ -4823,10 +4823,10 @@ escodegen@^1.11.1, escodegen@^1.8.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-cmyr@^1.1.31:
-  version "1.1.31"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.31.tgz#f574ec3eff88fccf1d9b6d688126a8ca8b494105"
-  integrity sha512-A7t9y24zMXEe5autUYq4iaULnoDvd3M+MlYoCCCAzOE5o/kS+5aoCpmFvXVkSwJEyZ9Qo/LePSiqq0uai2xrfg==
+eslint-config-cmyr@^1.1.32:
+  version "1.1.32"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.32.tgz#5a1c53f774e586854b72afbacf81d0832c1863f3"
+  integrity sha512-dK4atnEPl4twuEpOzdyRvE6JaxDoIJizKIMDdTpca2ZY1b5TosgVnfpXj9lT+hkm4jj2jMsFk2rXVe/u0bgNTg==
 
 eslint-plugin-html@^8.1.2:
   version "8.1.2"
